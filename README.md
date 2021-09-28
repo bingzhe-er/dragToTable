@@ -1,0 +1,28 @@
+|_api
+    |_query.js(网站会发起的所有请求汇总)
+|_css
+    |_fonts(elementUI依赖字体文件)
+        |_element-icons.ttf
+        |_element-icons.woff
+    |_elementUI.css(elementUI依赖样式文件)
+    |_index.css(页面的样式文件,改变样式修改此文件即可)
+|_imgs(图标)
+    |_delete-black.png(垃圾桶默认)
+    |_delete-grey.png(垃圾桶悬浮)
+    |_edit-black.png(编辑默认)
+    |_exit-grey.png(编辑悬浮)
+    |_exit-red.png(关闭折叠面板右上角X备用)
+    |_list-white.png(折叠面板左侧中部图标)
+    |_save-black.png(保存默认备用)
+    |_save-grey.png(保存悬浮备用)
+    |_search-black.png(搜索黑底备用)
+    |_search-white.png(搜索白底备用)
+|_js
+    |_export2Excel(导出Excel依赖)
+        |_xlsx.core.min.js
+    |_axios.min.js(发起请求的依赖)
+    |_elementUI.js(elementUI依赖)
+    |_vue.js(Vue依赖)
+|_favicon.ico(网站图标)
+|_index.html(网页文件)
+|_README.md(文件说明)
